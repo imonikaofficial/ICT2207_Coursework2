@@ -86,7 +86,7 @@ public class PasswdAuthenticationActivity extends AppCompatActivity {
                         return;
                     }
 
-                    // Confirm the password
+                    //Confirm the password
 
                     if (!isConfirmationPending) {
                         isConfirmationPending = true;
